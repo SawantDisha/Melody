@@ -1,0 +1,26 @@
+body{
+  text-align: center;
+  margin: 0;
+  background-color: #000000;
+}
+
+.hi-img{
+  width: 30%;
+  padding-bottom: 20px;
+  border: 0;
+}
+.icon {
+  color: #000000;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+.hey{
+  color: #F9C5D5;
+}
+ #header{
+   color: #FFF1BD
+ }
